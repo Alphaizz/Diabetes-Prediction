@@ -16,9 +16,8 @@
 
 ---
 
-## 👩‍💻 Project Members
+
 - **ALFAIZZ DYANDARA ARDIN** (41523010176)
-- **AMANDA PUSPITA SARI** (41523010047)
 
 ---
 
