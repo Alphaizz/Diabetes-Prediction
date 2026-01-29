@@ -66,3 +66,5 @@ To run this project, you need the following Python libraries. You can install th
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
+
+https://www.canva.com/design/DAG_06AjT4g/WIGd5EkP2uEveNvhluR2Ug/edit?utm_content=DAG_06AjT4g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
